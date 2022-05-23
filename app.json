@@ -1,11 +1,11 @@
 {
-    "name": "Video Stream ",
+    "name": "V Bo Stream ",
     "description": "Video Stream Telegram Bot",
     "keywords": [
         "Video Stream ",
         "pytgcalss"
     ],
-    "repository": "https://github.com/lntechnical2/videostream",
+    "repository": " https://github.com/Captainamarica/videostream",
     "success_url": "https://telegram.dog/lntechnical",
     "env": {
         "CHAT": {
